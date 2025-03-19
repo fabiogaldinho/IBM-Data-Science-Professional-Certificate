@@ -16,9 +16,7 @@ This repository stores Data Science projects developed for the IBM Data Science 
 - Applied Data Science Capstone
 - Generative AI: Elevate Your Data Science Career
 <br>
-<br>
-## **LANGUAGES AND TOOLS**
-
+<H2><b>LANGUAGES AND TOOLS</b></H2>
 <img 
     align="left" 
     alt="Python" 
