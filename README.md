@@ -18,6 +18,7 @@ This repository stores Data Science projects developed for the IBM Data Science 
 <br>
 <br>
 ## **LANGUAGES AND TOOLS**
+
 <img 
     align="left" 
     alt="Python" 
